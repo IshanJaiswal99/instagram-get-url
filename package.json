@@ -1,0 +1,35 @@
+{
+  "name": "instagram-download-url",
+  "version": "1.0.0",
+  "description": "Get a direct download url for instagram video, photo, and reels",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorsouzaleal/instagram-direct-url.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "media",
+    "link",
+    "photo",
+    "video",
+    "url",
+    "picture",
+    "image",
+    "download",
+    "reels"
+  ],
+  "author": "Ishan Jaiswal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorsouzaleal/instagram-direct-url/issues"
+  },
+  "homepage": "https://github.com/victorsouzaleal/instagram-direct-url#readme",
+  "dependencies": {
+    "axios": "^1.3.4"
+  }
+}
