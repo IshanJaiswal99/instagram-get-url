@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IshanJaiswal99/instagram-download-url.git"
+    "url": "https://github.com/IshanJaiswal99/instagram-download-url.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
