@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIshanJaiswal99%2FInstagram-Download-Url&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/2FIshanJaiswal99/followers"><img title="Followers" src="https://img.shields.io/github/followers/IshanJaiswal99?color=%23833AB4&logo=github&style=flat-square"></a>
+<a href="https://github.com/IshanJaiswal99?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/IshanJaiswal99?color=%23833AB4&logo=github&style=flat-square"></a>
 <a href="https://github.com/IshanJaiswal99/Instagram-Download-Url/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/IshanJaiswal99/Instagram-Download-Url?color=%23833AB4&logo=github&style=flat-square"></a>
 <a href="https://github.com/IshanJaiswal99/Instagram-Download-Url/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/IshanJaiswal99/Instagram-Download-Url?color=%23833AB4&logo=github&style=flat-square"></a>
 <a href="#"><img title="Version" src="https://img.shields.io/github/package-json/v/IshanJaiswal99/Instagram-Download-Url?color=%23833AB4&logo=github&style=flat-square"></a>
