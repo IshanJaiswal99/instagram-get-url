@@ -1,5 +1,6 @@
 const axios = require("axios");
-const instagramGetUrl = (url_media) => {
+
+function instagramGetUrl(url_media) {
   return new Promise(async (resolve, reject) => {
     const BASE_URL = "https://www.instagram.com/p/";
     const postId = url_media
@@ -43,6 +44,6 @@ const instagramGetUrl = (url_media) => {
       reject(e.message);
     }
   });
-};
+}
 
 module.exports = instagramGetUrl;
