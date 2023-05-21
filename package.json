@@ -2,7 +2,7 @@
   "name": "instagram-get-url",
   "version": "1.0.2",
   "description": "Get a direct download url for instagram video photo and reels",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
       "start": "node src/index.js"
   },
